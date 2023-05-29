@@ -25,8 +25,8 @@ print("{:.2f}".format(n))
 # 2-Norm of a Matrix
 '''
 Program to find 2-norm of a matrix.
-Developed by:SRINIDHI SENTHIL
-RegisterNumber: 22001408
+Developed by:Tharika S
+RegisterNumber: 212222230159
 '''
 import numpy as np
 array=np.array(eval(input()))
@@ -36,8 +36,8 @@ print("{:.2f}".format(n))
 # Infinity Norm of a Matrix
 '''
 Program to find 1-norm of a matrix.
-Developed by:SRINIDHI SENTHIL
-RegisterNumber: 22001408
+Developed by:Tharika S
+RegisterNumber: 212222230159
 '''
 import numpy as np
 mat=np.array(eval(input()))
